@@ -34,3 +34,12 @@ logs/
 bin/
 gen/
 .cache/
+
+#vpp
+**.vpp.bak_*
+**.vux.bak*
+**.vpp.lck*
+/.vpprefdata
+*.vpprefdata
+/tmp
+.lock
